@@ -1,4 +1,4 @@
-# exsample web components
+# example web components
 
 ## Install
 
